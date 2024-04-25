@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  color: rgb(105, 105, 105);
+}
+form {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 50px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(129, 129, 129);
+}
+.btn2{
+  position: relative;
+  top: -100px;
+  left: 520px;
+  background-color: rgb(141, 141, 141);
+}
