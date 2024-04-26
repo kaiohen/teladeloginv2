@@ -8,11 +8,12 @@ Este projeto consiste em uma simples tela de login desenvolvida para fins de dem
 Autenticação de Usuário: Os usuários podem inserir seu nome de usuário e senha para acessar o sistema.
 Recuperação de Senha: Há um link ou opção para recuperar a senha em caso de esquecimento.
 Validação de Entrada: Verifica se os campos de entrada estão preenchidos corretamente antes de permitir o login.
-Tecnologias Utilizadas:
-HTML
-CSS
-JavaScript
-https://img.shields.io/badge/%20https%3A%2F%2Fimg.shields.io%2Fbadge%2F-JavaScript-black
+
+# Tecnologias Utilizadas:
+* HTML
+* CSS
+* JavaScript
+
 
 
 
