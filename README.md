@@ -10,10 +10,9 @@ Recuperação de Senha: Há um link ou opção para recuperar a senha em caso de
 Validação de Entrada: Verifica se os campos de entrada estão preenchidos corretamente antes de permitir o login.
 
 # Tecnologias Utilizadas:
-https://teams.microsoft.com/l/message/48:notes/1714129810227?context=%7B%22contextType%22%3A%22chat%22%7D
-https://teams.microsoft.com/l/message/48:notes/1714129754914?context=%7B%22contextType%22%3A%22chat%22%7D
-https://teams.microsoft.com/l/message/48:notes/1714129754914?context=%7B%22contextType%22%3A%22chat%22%7D
-
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaS&logoColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=red)
+![Static Badge](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=CSS3)
 
 
 
