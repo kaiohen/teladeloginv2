@@ -12,7 +12,8 @@ Tecnologias Utilizadas:
 HTML
 CSS
 JavaScript
- https://img.shields.io/badge/any_text-you_like-blue
+https://img.shields.io/badge/%20https%3A%2F%2Fimg.shields.io%2Fbadge%2F-JavaScript-black
+
 
 
 
