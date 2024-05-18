@@ -19,9 +19,6 @@ function isValidEmail(email) {
   function Cadastrar() {
     window.location.href = "cadastro.html";
   }
-   function continuar() {
-    window.location.href = "login.html";
-  }
   function validarFormulario() {
     var email = document.getElementById("exampleInputEmail1").value;
     var senha = document.getElementById("exampleInputPassword1").value;
@@ -40,6 +37,6 @@ function continuar() {
     if (email.trim() === "" || senha.trim() === "") { 
         alert("Por favor, preencha todos os campos."); 
     } else {
-        alert("Campos preenchidos! Você pode prosseguir.");
+       window.location.href = "login.html";
     }
 }
